@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hardcoded_string">Type some text:</string>
+</resources>
